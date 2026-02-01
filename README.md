@@ -43,10 +43,9 @@ class Siman extends BackendEngineer {
 
 </div>
 
-**Key Achievements:**
+**Key changes:**
 - ⚡ Resolved **Lombok/javac compiler incompatibilities** for JDK 25
 - 🏗️ Designed custom **Maven profiles** for legacy vs. modern JDK builds
-- 🐳 Updated **Docker agent manifests** for day-zero Java 25 readiness
 - 🔧 Ensured backward compatibility while enabling cutting-edge Java features
 
 [**→ View Pull Request**](https://github.com/apache/skywalking/pulls?q=is%3Apr+author%3ASiman-hub)
@@ -90,21 +89,6 @@ class Siman extends BackendEngineer {
 
 </div>
 
----
-
-## 📂 Featured Projects
-
-### 🚂 [HelpMeTravel](https://github.com/Siman-hub/HelpMeTravel)
-**Intelligent Multi-Leg Train Journey Routing Engine**
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Graph_Algorithms-FF6B6B?style=flat-square" />
-
-- 🧠 Implemented **Time-Aware Dijkstra Algorithm** for optimal pathfinding
-- 💰 Achieved **~12% reduction** in average travel costs
-- 🔗 Chains multi-leg journeys when direct tickets are unavailable
-- ⚡ Built with scalable microservices architecture
 
 ---
 
