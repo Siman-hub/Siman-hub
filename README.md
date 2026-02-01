@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Siman 👋
+# Yeah thanks for the visit, don't worry it's free
 ### Backend Engineer | Open Source Contributor | Competitive Programmer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Deep-diving+into+Distributed+Systems;Contributing+to+Apache+SkyWalking;Optimizing+Java+Ecosystem" alt="Typing SVG" />
