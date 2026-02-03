@@ -50,6 +50,26 @@ class Siman extends BackendEngineer {
 
 [**→ View Pull Request**](https://github.com/apache/skywalking/pulls?q=is%3Apr+author%3ASiman-hub)
 
+<div align="center">
+    
+### [Apache SkyWalking -](https://github.com/apache/skywalking-java)
+
+
+<img src="https://img.shields.io/badge/Status-Merged-success?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Branch-apache%2Fmain-blue?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+**Key Contributions**
+- ✅ Added Spring Cloud Gateway **4.3.3** support to the gateway scenario test matrix  
+- 🐳 Improved JVM test container by installing `bash` at image build time  
+- ☕ Refactored JDK runtime selection to rely on CI matrix (removed scenario-level overrides)  
+- 📄 Updated supported middleware documentation  
+- 📝 Updated changelog for release inclusion  
+- 🔬 Performed source + binary compatibility analysis on `NettyRoutingFilter`
+
+👉 **Merged PR:** https://github.com/apache/skywalking-java/pull/787
+
 ---
 
 ## 💻 Tech Stack
