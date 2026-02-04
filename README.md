@@ -17,7 +17,7 @@
 ## 🎓 About Me
 
 ```java
-class Siman extends BackendEngineer {
+class Siman extends Programmer {
     String university = "NIT Silchar";
     String year = "Final Year B.Tech";
     String[] currentFocus = {"Distributed Systems", "Java Ecosystem", "System Design"};
@@ -52,7 +52,7 @@ class Siman extends BackendEngineer {
 
 <div align="center">
     
-### [Apache SkyWalking -](https://github.com/apache/skywalking-java)
+### [Apache SkyWalking - java](https://github.com/apache/skywalking-java)
 
 
 <img src="https://img.shields.io/badge/Status-Merged-success?style=for-the-badge&logo=apache&logoColor=white" />
